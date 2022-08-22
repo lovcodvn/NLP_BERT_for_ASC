@@ -31,6 +31,7 @@ We'll explore a pretrain model-based approach for ASC task, which takes advantag
 The dataset used in this task is from Sem-Eval 2014 dataset, which contains training sets and testing sets for two specific domains “Laptop” and “Restaurant”. Since there are no polarity lables for aspect terms in the testing sets, we used only the training sets. To generate the training data and validation data for our models, we'll split the training sets with the train-valid ratio of 80:20. 
 
 During our experiments, both domains are explored. The Table below describes the distribution of polarities for aspect terms in our datasets:
+
 <img src="images/LabelDistribution.png" width = "500">
 
 To evaluate the performance of our model, we'll use the overal “Accuracy”. The accuracy by polarities are also used to draw insights for future improvements.

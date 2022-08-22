@@ -10,10 +10,10 @@ Subtask 2: Aspect term polarity
 Given one or more aspect terms within a sentence, determine whether the polarity of each aspect term is positive, negative, neutral or conflict (i.e., both positive and negative).
 
 For example:
-“I loved their fajitas” → {fajitas: positive}
-“I hated their fajitas, but their salads were great” → {fajitas: negative, salads: positive}
-“The fajitas are their first plate” → {fajitas: neutral}
-“The fajitas were great to taste, but not to see” → {fajitas: conflict}
+- “I loved their fajitas” → {fajitas: positive}
+- “I hated their fajitas, but their salads were great” → {fajitas: negative, salads: positive}
+- “The fajitas are their first plate” → {fajitas: neutral}
+- “The fajitas were great to taste, but not to see” → {fajitas: conflict}
 
 ## Literature Review
 

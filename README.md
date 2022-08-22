@@ -34,7 +34,7 @@ During our experiments, both domains are explored. The Table below describes the
 
 To evaluate the performance of our model, we'll use the overal “Accuracy”. The accuracy by polarities are also used to draw insights for future improvements.
 
-<img src="images/LabelDistribution.png" width = "1000">
+<img src="images/LabelDistribution.png" width = "500">
 
 ## Model result:
 A slight change to input format can lead to a slight change in the model performance. Different pretrain models such as BERT, XLNet and DistilBert gives similar results. The highest accuracy achieved is 72%.
